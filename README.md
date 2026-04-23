@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in Omaha, Nebraska, US
 
-> Free BeamStation sample export with 40 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `651666` |
 | Location | Omaha |
 | Category | Restaurants |
-| Full dataset size | 402 records |
-| Free sample size | 40 records (9.95%) |
-| Last export | 2026-04-15T05:09:53.998440+00:00 |
+| Full dataset size | 95 records |
+| Free sample size | 9 records (9.47%) |
+| Last export | 2026-04-22T10:43:57.349800+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-omaha-nebraska-us-sample-651666/releases/download/sample-latest/beamstation_651666_restaurants-us-ne_SAMPLE_DIST.csv) |
 
 ## What is in this sample
