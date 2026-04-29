@@ -1,12 +1,12 @@
 {
-  "export_job_id": "fd03c1c6-a211-4397-9d3a-cb9d0d79e527",
+  "export_job_id": "b7322619-ad15-4f4d-bb19-0f0245066ac4",
   "id_short": 651666,
-  "published_at": "2026-04-23T07:02:30Z",
+  "published_at": "2026-04-29T19:26:29Z",
   "repo_name": "restaurant-verified-email-access-in-omaha-nebraska-us-sample-651666",
   "sample_asset_name": "beamstation_651666_restaurants-us-ne_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/651666/beamstation_651666_restaurants-us-ne_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "57f8bb83ca554549e2fad39cb7652818adb27c88bcf6a311426d7765bfc6308f",
-  "sample_size_bytes": 52190,
-  "total_records": 95
+  "sample_records": 40,
+  "sample_sha256": "8f082ab9acfc5867ac5e91e303121c97b1d4f04a27a042fd073d3ceac9fe3d91",
+  "sample_size_bytes": 175328,
+  "total_records": 408
 }
